@@ -30,4 +30,8 @@ node_modules
 .npm
 
 # Optional REPL history
+<<<<<<< HEAD
 .node_repl_history
+=======
+.node_repl_history
+>>>>>>> 7df9c678cd0925a98d4c9d663d3eb0e89e287ca4
